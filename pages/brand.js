@@ -133,18 +133,19 @@ const Page = ({ css }) => (
           Download HQ’s logos and preview our brand colors & font.
         </Heading>
         <p>
-          Hack Club must always be written as Hack Club, not hackclub / Hackclub
-          / HackClub / hackClub
+          Always write our name as <strong>Hack Club</strong> — never in
+          lowercase or any other variation (not <em>hackclub</em>,{" "}
+          <em>Hackclub</em>, or <em>HackClub</em>).
         </p>
         <p>
-          Same with Hack Clubber or Hack Clubbers. It's never hackclubbers or
-          Hackclubbers
+          The same goes for <strong>Hack Clubber(s)</strong>. Keep the
+          capitalization consistent — not <em>hackclubbers</em> or{" "}
+          <em>Hackclubbers</em>.
         </p>
         <p>
-          Important / should not be missable by anyone who is designing a
-          sticker: All sticker designs must have the text Hack Club somewhere on
-          the design. It can be subtle, but "Hack Club" must appear somewhere on
-          the design
+          <strong>Design note:</strong> Every sticker must include the text
+          “Hack Club” somewhere on it. It doesn’t need to be front and center —
+          subtle is fine — but it should always appear somewhere in the design.
         </p>
       </Container>
     </Box>
